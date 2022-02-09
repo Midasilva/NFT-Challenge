@@ -8,10 +8,12 @@
 
 body {
   position: relative;
-  padding-top: 3rem;
   display: flex;
   background-color: hsl(217, 54%, 11%);
   justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
 }
 
 a {
